@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Melissa Pratt
 
-I'm a technical strategist and automation builder. I write custom scripts and design smart systems that help businesses run smoother — especially in real estate, online education, and wellness.
+I'm a technical strategist, automation builder and systems architect. I write custom scripts and design smart systems that help businesses run smoother — especially in real estate, online education, and retail.
 
 ---
 
