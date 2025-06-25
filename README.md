@@ -1,16 +1,38 @@
-## Hi there 👋
+## 👋 Hi, I'm Melissa Pratt
 
-<!--
-**MelissaPrattTech/MelissaPrattTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technical strategist and automation builder. I write custom scripts and design smart systems that help businesses run smoother — especially in real estate, online education, and wellness.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Build
+
+- 📧 **Email & SMS automations** using Google Apps Script, Gmail, and Sheets
+- 📲 **Social media schedulers** for Instagram and Facebook (RECOF & Good Life She)
+- 📦 **Affiliate & product content systems** for lifestyle and wellness brands
+- 📚 **Course enrollment workflows** using Thinkific + Google Sheets
+- 🏡 **Real estate lead nurturing tools** with follow-ups, tracking, and engagement
+
+---
+
+### 🧰 Tools I Work With
+
+`Google Apps Script` • `JavaScript` • `Python` • `SendGrid` • `Zapier` • `Buffer`  
+`Thinkific` • `Shopify` • `GitHub` • `Google Sheets` • `Email APIs`
+
+---
+
+### 💼 Projects I'm Supporting
+
+- [Real Estate Campus of Florida](https://www.myrealestatecampus.com)
+- [Good Life She](https://goodlifeshe.com)
+- [Pratt Real Estate Group](#)
+- [Global Mortgage Lending](#)
+
+---
+
+### 🌐 Connect with Me
+
+📧 msmelissapratt@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/melissappratt)
+
+---
